@@ -500,7 +500,8 @@ print(my_dict) # { 'key1' : 'value1' }
   직접 알고리즘을 서버에 띄워서 성능측정을 해보았고, 또한 locust 가 출력한 결과값을 해석하는 것도 중요했다.
   처음에는 그래프의 수치가 너무 낮게나와서 오류가 난 것으로 생각했는데 자세히 확인했을때 낮은 값이지만 제대로 출력되는 것을 확인했다.
 
-![numberofusers](./readmesource/number_of_users_1698992900.png)
+![number_of_users_1698992900](https://github.com/jiyeon2536/python-data-process/assets/125720796/a4098ab9-795d-4867-91f8-b446e35830d6)
+
 
 ## ✅ 요약
 
